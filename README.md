@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @El2228
+- 👋 Hi, I’m @Lynle22
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning python then C++
 - 💞️ I’m looking to collaborate on projects for experience
